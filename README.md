@@ -21,4 +21,4 @@ produce the department_kpi table. This table answers the business question: Whic
 generate the highest number of orders? The curated output is written in Parquet format to the
 gold directory.
 
-To run this code, simply have all CSV files in the same directory as the 660_project_Phase4.ipynb file and click run on Google Colab. Outputs folders and Parquet files will be in their bronze, silver, and gold directories under the instacart_pipeline directory as described in the pipeline stages above.
+To run this code, simply download all CSV files from the link provided above and have them in the same directory as the 660_project_Phase4.ipynb file in Google Colab and click Run All. Outputs folders and Parquet files will be in their bronze, silver, and gold directories under the instacart_pipeline directory as described in the pipeline stages above.
